@@ -16,7 +16,7 @@
     private boolean Nalichie=true;
     private int Iznos=5;
     
-    private Tesla(int godVipuska, int Bagajnik_litrov,int NadytihKoles, int ZerkalSkameroy, boolean RekyperativnoeTormojenie, int HorsePower, int  NewtonMeters, boolean Used) {
+    private Tesla(int godVipuska, int Bagajnik_litrov,int NadytihKoles, int ZerkalSkameroy, boolean RekyperativnoeTormojenie, int HorsePower, int                   NewtonMeters, boolean Used) {
         this.GodVipuska = godVipuska;
         this.Bagajnik_litrov = Bagajnik_litrov;
         this.NadytihKoles = NadytihKoles;
